@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- 📲 Futuro Ingeniero de Software
+- 💻 Futuro Ingeniero de Software
 - 📗 Estudiando en la UCM
 <br>
 
