@@ -1,11 +1,10 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Sergio Sánchez!</a> 👋</h1>
+<h1 align="center">Hola, soy Sergio Sánchez!</a> 👋</h1>
 </div>
 
 ## Sobre mi
 
 - 📲 Futuro Ingeniero de Software
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Estudiando en la UCM
 <br>
 
