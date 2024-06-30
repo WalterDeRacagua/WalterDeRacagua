@@ -9,7 +9,6 @@
 - 📗 Estudiando en la UCM
 <br>
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
