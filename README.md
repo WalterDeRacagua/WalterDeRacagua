@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Sergio Sánchez!</a> 👋</h1>
 </div>
+<img src="https://github.com/WalterDeRacagua/WalterDeRacagua/blob/main/Banner%20de%20LinkedIn%20Trabajo%20Sencillo.png)">
 
 ## Sobre mi
 
