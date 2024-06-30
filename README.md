@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hola, soy <a href="https://aristi.dev">Sergio Sánchez!</a> 👋</h1>
+  <h1 align="center">Hola, soy Sergio Sánchez!</a> 👋</h1>
 </div>
 <img src="https://raw.githubusercontent.com/WalterDeRacagua/WalterDeRacagua/main/Banner%20de%20LinkedIn%20Trabajo%20Sencillo.png" alt="Banner de LinkedIn">
 
