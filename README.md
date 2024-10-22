@@ -19,8 +19,7 @@
 </a>
 </p>
 <p align="center">
-  <a href="https://github.com/WalterDeRacagua">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=WalterDeRacagua&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=WalterDeRacagua&theme=github" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=WalterDeRacagua&show_icons=true&theme=algolia&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterDeRacagua&layout=compact&langs_count=8&theme=algolia" />
+</p>
 </p>
