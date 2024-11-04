@@ -7,6 +7,7 @@
 
 - 💻 Futuro Ingeniero de Software
 - 📗 Estudiando en la UCM
+- 🏳️ Gestor de Proyectos 
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
