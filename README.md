@@ -3,7 +3,7 @@
 </div>
 <img src="https://raw.githubusercontent.com/WalterDeRacagua/WalterDeRacagua/main/Banner%20de%20LinkedIn%20Trabajo%20Sencillo.png" alt="Banner de LinkedIn">
 
-## Sobre mi
+### 🥷🏻 Sobre mi
 
 - 💻 Futuro Ingeniero de Software
 - 📗 Estudiando en la UCM
