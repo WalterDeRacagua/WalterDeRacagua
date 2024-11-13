@@ -10,14 +10,14 @@
 - 🏳️ Gestor de Proyectos 
 <br>
 
-### 🛠️ Tecnologías:
+### 🛠️ Habilidades:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-%2300599C.svg?style=for-the-badge&logo=scrum&logoColor=white)
+![Git](https://img.shields.io/badge/Scrum-%2300599C.svg?style=for-the-badge&logo=scrum&logoColor=white)
 <br>
 
 
