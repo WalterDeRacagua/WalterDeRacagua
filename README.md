@@ -10,6 +10,11 @@
 - 🏳️ Gestor de Proyectos 
 <br>
 
+### 🛠️ Tecnologías:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
