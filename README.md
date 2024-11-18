@@ -36,3 +36,15 @@
 
 ![Visitas](https://komarev.com/ghpvc/?username=WalterDeRacagua&color=blue)
 
+<details>
+<summary>📌 Mis Proyectos Destacados</summary>
+  
+<div align="center">
+  <a href="https://github.com/WalterDeRacagua/TAIS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalterDeRacagua&repo=TAIS&theme=tokyonight" alt="TAIS" />
+  </a>
+</div>
+</details>
+
+<br/><br/>
+
