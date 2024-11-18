@@ -36,8 +36,3 @@
 
 ![Visitas](https://komarev.com/ghpvc/?username=WalterDeRacagua&color=blue)
 
-## 🐍 Una Serpiente Comiéndose mi Gráfico de Contribuciones
-
-<div align="center">
-  <img src="https://github.com/WalterDeRacagua/WalterDeRacagua/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
-</div>
