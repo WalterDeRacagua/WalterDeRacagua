@@ -30,4 +30,4 @@
 </a>
 
 ## 🏆 Mis Trofeos de GitHub
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=WalterDeRacagua&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
