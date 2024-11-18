@@ -31,11 +31,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WalterDeRacagua&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-## 🏆 Mis Trofeos de GitHub
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=WalterDeRacagua&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Visitas](https://komarev.com/ghpvc/?username=WalterDeRacagua&color=blue)
-
 <details>
 <summary>📌 Mis Proyectos Destacados</summary>
   
@@ -43,8 +38,22 @@
   <a href="https://github.com/WalterDeRacagua/TAIS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalterDeRacagua&repo=TAIS&theme=tokyonight" alt="TAIS" />
   </a>
+  <a href="https://github.com/WalterDeRacagua/TP2-OVEJAS-LOBOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalterDeRacagua&repo=TP2-OVEJAS-LOBOS&theme=tokyonight" alt="TP2-OVEJAS-LOBOS" />
+  </a>
+  <a href="https://github.com/WalterDeRacagua/Curso-de-HTML-y-CSS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalterDeRacagua&repo=Curso-de-HTML-y-CSS&theme=tokyonight" alt="Curso-de-HTML-y-CSS" />
+  </a>
+  <a href="https://github.com/WalterDeRacagua/ESTRUCTURAS-DE-LOS-DATOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WalterDeRacagua&repo=ESTRUCTURAS-DE-LOS-DATOS&theme=tokyonight" alt="ESTRUCTURAS-DE-LOS-DATOS" />
+  </a>
 </div>
 </details>
 
 <br/><br/>
+
+## 🏆 Mis Trofeos de GitHub
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=WalterDeRacagua&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitas](https://komarev.com/ghpvc/?username=WalterDeRacagua&color=blue)
 
