@@ -32,4 +32,4 @@
 ## 🏆 Mis Trofeos de GitHub
 [![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=WalterDeRacagua&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=WalterDeRacagua)
+![Visitas](https://komarev.com/ghpvc/?username=WalterDeRacagua&color=blue)
