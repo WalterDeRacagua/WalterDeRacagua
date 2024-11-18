@@ -28,3 +28,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WalterDeRacagua&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WalterDeRacagua&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+## 🏆 Mis Trofeos de GitHub
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
