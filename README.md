@@ -6,6 +6,7 @@
 ### 🥷🏻 Sobre mi
 
 - 💻 Futuro Ingeniero de Software
+- 🪙 Futuro desarrollador Blockchain
 - 📗 Estudiando en la UCM
 - 🏳️ Gestor de Proyectos
   
