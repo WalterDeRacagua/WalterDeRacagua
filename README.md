@@ -20,7 +20,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-%23007A78.svg?style=for-the-badge&logo=Asana&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23007278.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 <br>
 
