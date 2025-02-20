@@ -21,6 +21,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-%23007A78.svg?style=for-the-badge&logo=Asana&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 <br>
 
